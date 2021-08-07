@@ -1,5 +1,5 @@
 <?php 
-include('E:/laragon/www/ponts/app.config.php');
+include('./app.config.php');
  
 # Récupération de la liste des ponts
 function get_Ponts() {

@@ -1,7 +1,7 @@
 <!doctype html>
 <?php 
-    include('E:/laragon/www/ponts/fonctions/fonctions.php');
-    include('E:/laragon/www/ponts/app.config.php');
+    include('./fonctions/fonctions.php');
+    include('./app.config.php');
 ?>
 <html lang="fr">
     <head>
